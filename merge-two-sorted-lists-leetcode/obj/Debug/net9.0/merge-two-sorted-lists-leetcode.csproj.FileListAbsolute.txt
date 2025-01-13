@@ -1,0 +1,14 @@
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.AssemblyInfoInputs.cache
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.AssemblyInfo.cs
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.csproj.CoreCompileInputs.cache
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\bin\Debug\net9.0\merge-two-sorted-lists-leetcode.exe
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\bin\Debug\net9.0\merge-two-sorted-lists-leetcode.deps.json
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\bin\Debug\net9.0\merge-two-sorted-lists-leetcode.runtimeconfig.json
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\bin\Debug\net9.0\merge-two-sorted-lists-leetcode.dll
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\bin\Debug\net9.0\merge-two-sorted-lists-leetcode.pdb
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.dll
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\refint\merge-two-sorted-lists-leetcode.dll
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.pdb
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\merge-two-sorted-lists-leetcode.genruntimeconfig.cache
+C:\Users\Gogosh\RiderProjects\merge-two-sorted-lists-leetcode\merge-two-sorted-lists-leetcode\obj\Debug\net9.0\ref\merge-two-sorted-lists-leetcode.dll
